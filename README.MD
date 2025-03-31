@@ -37,8 +37,9 @@ Descripción: Muestra la API y los datos en formato JSON con de Rest.
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/AxelArielGodoy/djangorest-crud-react
+cd djangorest-crud-react/
+code .
 ```
 
 ### 2. Crear Entorno Virtual
@@ -66,7 +67,7 @@ source venv/bin/activate
 - En sistemas Windows:
 
 ```bash
-venv\Scripts\activate
+. venv\Scripts\activate
 ```
 
 ### 3. Instalar Dependencias y levantar el servidor Back
