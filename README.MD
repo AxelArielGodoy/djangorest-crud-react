@@ -67,7 +67,7 @@ source venv/bin/activate
 - En sistemas Windows:
 
 ```bash
-. venv\Scripts\activate
+. venv/Scripts/activate
 ```
 
 ### 3. Instalar Dependencias y levantar el servidor Back
